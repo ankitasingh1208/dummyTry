@@ -1,6 +1,0 @@
-#include <stdio.h>
-int main();
-int x=5;
-int y=20;
-printf("%d",x+y);
-return0,
